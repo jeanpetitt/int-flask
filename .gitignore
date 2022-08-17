@@ -2,3 +2,5 @@
 __pycache__
 apiFlask/__pycache__
 
+plants.psql
+plantsdb-setup.sql
